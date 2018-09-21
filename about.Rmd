@@ -1,0 +1,12 @@
+---
+title: " For the world-class cutie pie"
+output:
+  html_document:
+    df_print: paged
+---
+
+
+
+this is the image u konw about me 
+![](https://cdn.images.express.co.uk/img/dynamic/109/590x/Tom-Jerry-cartoon-765337.jpg)
+
