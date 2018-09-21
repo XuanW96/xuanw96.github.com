@@ -4,7 +4,7 @@ output:
   html_document:
     df_print: paged
 ---
-
+setwd("/Users/wangzixuan/Desktop/GITHUB/github_pages_demo-master/xuanw96.github.com")
 
 
 this is the image u konw about me 
