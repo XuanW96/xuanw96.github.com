@@ -6,7 +6,6 @@ output:
 ---
 
 
-
-this is the image u konw about me 
+this is the image u konw about meee 
 ![](https://cdn.images.express.co.uk/img/dynamic/109/590x/Tom-Jerry-cartoon-765337.jpg)
 
